@@ -592,7 +592,7 @@ section{
 @media(max-width: 450px)
 {
     html{
-        font-size: 50%;
+        font-size: 55%;
     }
 
     header .navbar{
@@ -614,5 +614,9 @@ section{
    .footer a{
        color: orange;
    }
+    
+    section.contact{
+        min-height: 89vh;
+    }
     
 }
